@@ -1,14 +1,6 @@
-# Hi!
+# Hi! I am Frontend! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-<p>
-  <em>
-    I am Frontend! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
-</p>
-
-<br>
 
 [![Indiorlei GitHub stats](https://github-readme-stats.vercel.app/api?username=indiorlei&theme=dracula&show_icons=true)](https://github.com/indiorlei/github-readme-stats)
 
