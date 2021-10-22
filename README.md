@@ -17,18 +17,11 @@
 [![Indiorlei Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=indiorlei&theme=dracula&hide_langs_below=1)](https://github-readme-streak-stats.herokuapp.com)
 
 
----
+<!-- --- -->
+<!-- [![Uiggy](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=uiggy&theme=dracula)](https://github.com/indiorlei/uiggy) -->
+<!-- [![Molly](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=molly&theme=dracula)](https://github.com/indiorlei/molly) -->
 
-  [![Uiggy](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=uiggy&theme=dracula)](https://github.com/indiorlei/uiggy)
   
-  [![Molly](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=molly&theme=dracula)](https://github.com/indiorlei/molly)
-  
-  [![gulp scss boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=gulp-scss-boilerplate&theme=dracula)](https://github.com/indiorlei/gulp-scss-boilerplate)
-  
-  [![ios images generator](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=ios-images-generator&theme=dracula)](https://github.com/indiorlei/ios-images-generator)
-  
-  [![angular attack 2017 slyng](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=angularattack2017-slyng&theme=dracula)](https://github.com/indiorlei/angularattack2017-slyng)
-
 #### Languages 👩‍💻 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
