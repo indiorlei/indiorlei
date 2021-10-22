@@ -2,13 +2,11 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=indiorlei&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/indiorlei/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=indiorlei&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=indiorlei&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=indiorlei&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiorlei&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiorlei&theme=dracula&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- --- -->
 <!-- [![Uiggy](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=uiggy&theme=dracula)](https://github.com/indiorlei/uiggy) -->
