@@ -2,11 +2,11 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
 
-[![Indiorlei GitHub stats](https://github-readme-stats.vercel.app/api?username=indiorlei&theme=dracula&show_icons=true)](https://github.com/indiorlei/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=indiorlei&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/indiorlei/github-readme-stats)
 
-[![Indiorlei Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=indiorlei&theme=dracula&hide_langs_below=1)](https://github-readme-streak-stats.herokuapp.com)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=indiorlei&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Indiorlei GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiorlei&theme=dracula&hide_langs_below=1)](https://github-readme-stats.vercel.app/api/top-langs)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiorlei&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs)
 
 
 
