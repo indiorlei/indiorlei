@@ -1,4 +1,4 @@
-# I’m FRONTEND :zap:
+# I’m FRONTEND :punch:
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
 
@@ -15,11 +15,11 @@
 <!-- [![Molly](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=molly&theme=dracula)](https://github.com/indiorlei/molly) -->
 
   
-#### Languages 👩‍💻 
+#### Languages :hammer_and_wrench:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Frameworks 🚀 
+#### Frameworks :ocean:
 ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
@@ -32,7 +32,7 @@
 ![prettier Badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ---
-## About me
+## About me :v:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/indiorlei)](https://github.com/indiorlei)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/indiorlei-de-oliveira-b137b232/)](https://www.linkedin.com/in/indiorlei-de-oliveira-b137b232/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitelink=mailto:indiorleioliveira@gmail.com)](mailto:indiorleioliveira@gmail.com)
