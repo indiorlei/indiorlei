@@ -1,4 +1,4 @@
-# Hi! I am Frontend! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="25px">
+# I’m FRONTEND :zap:
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
 
