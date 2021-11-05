@@ -13,11 +13,11 @@
 <!-- [![Molly](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=molly&theme=dracula)](https://github.com/indiorlei/molly) -->
 
   
-#### Languages :hammer_and_wrench:
+#### :hammer_and_wrench:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Frameworks :ocean:
+#### :ocean:
 ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
