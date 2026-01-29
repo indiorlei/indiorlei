@@ -1,52 +1,65 @@
-# I’m FRONTEND :punch:
+👋 Eu sou o Indiorlei.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=indiorlei&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+💻 Desenvolvedor **Frontend** há mais de **10 anos**, trabalhando com produtos reais, código que cresce e times que precisam de clareza.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=indiorlei&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiorlei&theme=dracula&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- --- -->
-<!-- [![Uiggy](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=uiggy&theme=dracula)](https://github.com/indiorlei/uiggy) -->
-<!-- [![Molly](https://github-readme-stats.vercel.app/api/pin/?username=indiorlei&repo=molly&theme=dracula)](https://github.com/indiorlei/molly) -->
-
-  
-#### :hammer_and_wrench:
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### :ocean:
-![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![httpsjs Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![eslint Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![prettier Badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+Hoje meu foco está em **React, Next.js e TypeScript**, com bastante atenção em **arquitetura frontend**, qualidade de código e experiência de desenvolvimento.
 
 ---
-## About me :v:
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/indiorlei)](https://github.com/indiorlei)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/indiorlei-de-oliveira-b137b232/)](https://www.linkedin.com/in/indiorlei-de-oliveira-b137b232/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitelink=mailto:indiorleioliveira@gmail.com)](mailto:indiorleioliveira@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/indiorlei)](https://twitter.com/indiorlei)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/indiorlei)](https://codepen.io/indiorlei)
+
+### 🧩 Como eu penso frontend
+
+- 🧠 Frontend é **engenharia**, não só interface
+- ✂️ Simplicidade > abstrações inteligentes demais
+- ⚡ Performance e DX não são “extras”
+- ♻️ Código bom é o que dá pra manter, evoluir e apagar
+- 🤝 Gosto de compartilhar contexto e ajudar o time a decidir melhor
+
+---
+
+### 🛠️ O que você vai ver por aqui
+
+- 🧱 Estruturas bem organizadas
+- 🔍 Decisões de arquitetura explícitas
+- 🧪 Experimentos e estudos técnicos
+- 📐 Padrões que fazem sentido no dia a dia
+- 🧭 Código pensando no próximo dev que vai mexer nele
+
+---
+
+### 🧰 Stack do dia a dia
+
+- ⚛️ **React** · **Next.js** · **TypeScript**
+- 🟨 **JavaScript** · **CSS moderno** · **Sass / CSS Modules**
+- 🧱 **Design Systems** · **Arquitetura Frontend**
+- ⚡ **Performance** · **Core Web Vitals**
+- 🔧 **Yarn** · **ESLint** · **Prettier**
+- ☁️ **Vercel** · **Netlify**
+- ☁️ **AWS / Azure** (integração com frontend)
 
 
-<!--
-**indiorlei/indiorlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏗️ Costumo trabalhar com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estruturação de aplicações frontend em escala
+- Evolução e modernização de código legado
+- Criação e manutenção de design systems
+- Definição de padrões técnicos e boas práticas
+- Revisão de código, mentoria e apoio técnico ao time
+
+---
+
+📌 Os projetos mais relevantes ficam fixados no perfil.  
+O restante faz parte do processo 👀
+
+---
+
+### 🌎 Onde me encontrar
+
+- 🐙 GitHub: https://github.com/indiorlei  
+- 💼 LinkedIn: https://www.linkedin.com/in/indiorlei-de-oliveira-b137b232/  
+- 📬 Email: indiorleioliveira@gmail.com  
+
+---
+
+✨ *Frontend bem feito não chama atenção — ele simplesmente funciona.*
